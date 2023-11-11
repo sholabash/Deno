@@ -1,0 +1,50 @@
+.nav1{
+}
+
+.container1{
+    padding-top: 20px;
+}
+
+
+
+.nav2 .ar{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.nav2 .home{
+    color: white;
+}
+
+
+.nav2 li {
+    padding: 3px;
+}
+
+.nav2 .red{
+    background-color: #ed1c24;
+ 
+
+}
+
+.navbar-toggler{
+width: 100%;
+}
+
+.bars{
+    color: #ed1c24;
+    font-size: 40px;
+}
+
+.btnslide{
+    background-color: #ed1c24;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    color: white;
+}
+
+.p1{
+    padding: 50px;
+    padding-top: 100px;
+}
